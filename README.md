@@ -9,14 +9,16 @@
     </a>
 </p>
 
-I recently graduated from Clemson University with a B.S. in Computer Science, and I am currently looking for a job as a software engineer. When I'm not working on a project, I'm looking for the best new release at the movie theater.
+I recently graduated from Clemson University with a B.S. in Computer Science, and I am currently looking for a job as a software engineer. When I'm not working on a project, I'm looking for the best new release at the box office.
 
 ---
 
 ## Projects and Learning
 
 - 🔭 I'm currently working on:
+  - [ ] Setting up a personal site hosted on GitHub Pages
   - [ ] Creating a bot that makes Spotify playlists using concert setlists scraped from setlists.fm
+  - [ ] Making a program that solves sudoku boards
 - 🌱 I’m currently learning dynamic programming algorithms
 - 🥅 My goal for June 2021 is to learn Docker and set up a project in a container
 - 💬 Talk to me about movies, video games, or anything else that interests you
@@ -51,8 +53,8 @@ I recently graduated from Clemson University with a B.S. in Computer Science, an
 <details>
 <summary>GitHub Stats and Commit Streaks</summary>
     <p align="center" markdown=1>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmross&theme=dracula" alt="Top Languages Graph"/>
-        <img src="https://github-readme-stats.codestackr.vercel.app/api?username=gmross&show_icons=true&theme=dracula&count_private=true" alt="GitHub Commit Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmross&theme=dracula" alt="Top Public Repo Languages Graph"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=gmross&show_icons=true&theme=dracula&count_private=true" alt="GitHub Public Commit Stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmross&theme=dracula" alt="GitHub Commit Streak"/>
     </p>
 </details>
