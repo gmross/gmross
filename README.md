@@ -7,21 +7,25 @@
     <a href="https://linkedin.com/in/gmross20">
         <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=f8f8f2&labelColor=0e76a8&color=0e76a8" alt="Button with a link that takes you to my LinkedIn profile"/>
     </a>
+    <!--TODO: Find a better icon for personal site. Maybe encode svg?-->
+    <a href="https://gmross.github.io">
+        <img src="https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=googlechrome&logoColor=f8f8f2&labelColor=282a36&color=bd93f9" alt="Button with a link that takes you to my personal GitHub Pages site"/>
+    </a>
 </p>
 
 I recently graduated from Clemson University with a B.S. in Computer Science, and I am currently looking for a job as a software engineer. When I'm not working on a project, I'm looking for the best new release at the box office.
 
 ---
 
-## Projects and Learning
+## 💻 Projects and Learning
 
 - 🔭 I'm currently working on:
-  - [ ] Setting up a personal site hosted on GitHub Pages
+  - [x] Setting up a personal site hosted on GitHub Pages
   - [ ] Creating a bot that makes Spotify playlists using concert setlists scraped from setlists.fm
   - [ ] Making a program that solves sudoku boards
-- 🌱 I’m currently learning dynamic programming algorithms
+- 🌱 I’m currently brushing up on JavaScript
 - 🥅 My goal for June 2021 is to learn Docker and set up a project in a container
-- 💬 Talk to me about movies, video games, or anything else that interests you
+- 💬 Talk to me about movies 🎬, video games 🎮, or anything else that interests you
 - 🦇 Dracula is my favorite theme for development environments
 
 ---
@@ -48,16 +52,18 @@ I recently graduated from Clemson University with a B.S. in Computer Science, an
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 <!-- Different style cards that pull GitHub activity stats -->
 <details>
 <summary>GitHub Stats and Commit Streaks</summary>
     <p align="center" markdown=1>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmross&theme=dracula" alt="Top Public Repo Languages Graph"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmross&theme=dracula&hide=css,scss" alt="Top Public Repo Languages Graph"/>
         <img src="https://github-readme-stats.vercel.app/api?username=gmross&show_icons=true&theme=dracula&count_private=true" alt="GitHub Public Commit Stats">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=gmross&theme=dracula" alt="GitHub Commit Streak"/>
     </p>
 </details>
+
+<!--TODO: Add more widgets. Maybe pinned repos, Spotify, GoodReads, etc-->
 
 ---
 
