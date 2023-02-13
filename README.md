@@ -13,7 +13,7 @@
     </a>
 </p>
 
-I recently graduated from Clemson University with a B.S. in Computer Science, and I am currently looking for a job as a software engineer. When I'm not working on a project, I'm looking for the best new release at the box office.
+I am a full-stack software engineer. When I'm not working on a project, I'm looking for the best new release at the box office.
 
 ---
 
